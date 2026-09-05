@@ -7,17 +7,9 @@ Designed to keep the editor deeply dark while using bright reds for focus, navig
 
 ## Preview
 
-> Add a screenshot or GIF of the theme here.
+(evil-theme-screenshot.png)
 
 ```text
-┌──────────────────────────────────────────────┐
-│  Evil Red                                    │
-│                                              │
-│  local function hello(name)                  │
-│      print("Hello, " .. name)                │
-│  end                                         │
-│                                              │
-└──────────────────────────────────────────────┘
 ```
 
 ## Features
