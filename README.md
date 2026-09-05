@@ -6,8 +6,8 @@ A dark, aggressive red Neovim colorscheme inspired by the **Evil Red Theme for V
 Designed to keep the editor deeply dark while using bright reds for focus, navigation, selections, and important UI elements, with additional syntax colors adapted from the original theme's `Red.tmTheme`.
 
 ## Preview
+<img width="1800" height="992" alt="evil-theme-screenshot" src="https://github.com/user-attachments/assets/c7fea87f-5bf0-4893-93e8-aa22f4364431" />
 
-(evil-theme-screenshot.png)
 
 ```text
 ```
