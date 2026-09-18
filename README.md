@@ -69,8 +69,11 @@ Or set it in your Neovim configuration:
 vim.cmd.colorscheme("evil-red")
 ```
 
-add the line below in init.lua
+add the line below in init.lua:
+```lua
 vim.cmd([[:colorscheme evil-red]])
+```
+
 
 ## Supported Integrations
 
