@@ -69,6 +69,9 @@ Or set it in your Neovim configuration:
 vim.cmd.colorscheme("evil-red")
 ```
 
+add the line below in init.lua
+vim.cmd([[:colorscheme evil-red]])
+
 ## Supported Integrations
 
 The theme includes highlight definitions for:
